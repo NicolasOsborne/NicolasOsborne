@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Nico!
+
 
 <img src="https://github.com/NicolasOsborne/portfolio/blob/main/portfolio/src/assets/images/nicoo_logo_hover.svg" title="Nicoo" alt="Nicoo" height="100"/>
 

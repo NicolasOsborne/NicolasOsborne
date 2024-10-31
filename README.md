@@ -4,11 +4,11 @@
 
 🌍 **Location:** Grenoble, France
 
-💻 **Currently Learning:** 🎻 Symfony
-
 ---
 
 ## 🚀 About Me
+
+👨‍💻 **Front-End Developer & Web Integrator || Full-Stack Engineer in the making** 💡
 
 ---
 
@@ -52,6 +52,10 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasOsborne)
 
+💻 **Currently Learning:** 🎻 Symfony
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/symfony/symfony-original.svg" title="Symfony" **alt="Symfony" width="40" height="40"/> 
+</div>
 
 ---
 

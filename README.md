@@ -52,9 +52,13 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasOsborne)
 
-💻 **Currently Learning:** 🎻 Symfony
+💻 **Currently Learning:** 🎻 Symfony | 🌱 Twig | ✅ Vue.js | 🟪 IntelliJ | 🤖 Android Studio
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/symfony/symfony-original.svg" title="Symfony" **alt="Symfony" width="40" height="40"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/symfony/symfony-original.svg" title="Symfony" **alt="Symfony" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue.js" **alt="Vue.js" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" **alt="Kotlin" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="IntelliJ" **alt="IntelliJ" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Android Studio" **alt="Android Studio" width="40" height="40"/>
 </div>
 
 ---

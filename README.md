@@ -48,7 +48,8 @@
 </div> 
 
 
-💻 **Currently Learning:** ✅ Vue.js | 🟪 IntelliJ | 🤖 Android Studio
+
+- **Currently Learning:**
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue.js" **alt="Vue.js" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" **alt="Kotlin" width="40" height="40"/>

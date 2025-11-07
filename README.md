@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-👨‍💻 **Front-End Developer & Web Integrator || Full-Stack Engineer in the making** 💡
+👨‍💻 **Front-End Developer & Web Integrator || Web Engineer in the making** 💡
 
 ---
 
@@ -47,11 +47,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/cucumber/cucumber-plain.svg" title="Cucumber" **alt="Cucumber" width="40" height="40"/>
 </div> 
 
----
-
-## 📈 Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasOsborne)
 
 💻 **Currently Learning:** ✅ Vue.js | 🟪 IntelliJ | 🤖 Android Studio
 <div>
@@ -60,6 +55,12 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="IntelliJ" **alt="IntelliJ" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Android Studio" **alt="Android Studio" width="40" height="40"/>
 </div>
+
+---
+
+## 📈 Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasOsborne)
 
 ---
 
